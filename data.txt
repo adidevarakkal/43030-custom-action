@@ -1,0 +1,2 @@
+Continuous integration runs the same checks on every push,
+so a mistake is caught by the pipeline instead of by a teammate.
